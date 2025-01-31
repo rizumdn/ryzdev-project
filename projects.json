@@ -1,0 +1,497 @@
+{
+  "code": 200,
+  "message": "Data retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "date": "2024-08-22",
+      "version": "1.0.0",
+      "title": "Laravel CRUD",
+      "subtitle": "The foundation of a CRUD website built using the Laravel framework.",
+      "paragraph": [
+        "The project is a CRUD (Create, Read, Update, Delete) based web application built using PHP Laravel, a powerful and efficient PHP framework. The app is designed to make it easier for users to manage their data through a simple and intuitive web interface.",
+        "I created this project to test my ability to use the PHP programming language and the Laravel framework"
+      ],
+      "category": "Full-stack",
+      "license": "CC0-1.0",
+      "update_at": "2024-08-22",
+      "tags": ["PHP", "Laravel", "TailwindCSS"],
+      "versions": {
+        "1.0.0__2024_08_22": [
+          "Can create, read, update and delete data",
+          "If you don't use an image, it automatically uses the default image"
+        ]
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/laravel-crud"
+      }
+    },
+    {
+      "id": 2,
+      "date": "2024-10-20",
+      "version": "1.0.0",
+      "title": "Payment Form",
+      "subtitle": "A simple payment form built using React, Vite, and Tailwind CSS.",
+      "paragraph": [
+        "A simple payment form built using React, Vite, and Tailwind CSS. This form is divided into two sections: the payment method section and the personal information section. The project is created for fun and does not involve handling any actual personal data."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2024-10-20",
+      "tags": ["React.js", "TailwindCSS", "HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_10_20": [
+          "Responsive layout",
+          "Built with React and Vite for fast development",
+          "Payment methods section",
+          "Personal information section",
+          "Input validation",
+          "Fun and experimental project (no real data handling)"
+        ]
+      },
+      "url": {
+        "demo": "https://payment-form-jade.vercel.app",
+        "repo": "https://github.com/ryzmdn/payment-form"
+      }
+    },
+    {
+      "id": 3,
+      "date": "2024-10-20",
+      "version": "1.0.0",
+      "title": "QR Code Generator",
+      "subtitle": "QR code generator with clean and simple open-source code.",
+      "paragraph": [
+        "The QR code generator created using HTML, CSS, and JavaScript is a web application that allows users to generate QR codes dynamically directly from their browser. The generated QR codes can contain various types of data, such as text, URLs, contacts, locations, and more."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2024-10-20",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_10_20": [
+          "Working link",
+          "Can be scanned",
+          "Can be reused for your website"
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/qrcode-generator",
+        "repo": "https://github.com/ryzmdn/qrcode-generator"
+      }
+    },
+    {
+      "id": 4,
+      "date": "2024-10-20",
+      "version": "1.0.0",
+      "title": "BMI Calculator",
+      "subtitle": "This BMI calculator is a simple web application designed to help users calculate their body mass index.",
+      "paragraph": [
+        "The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status while taking age into consideration. Use the \"Metric Units\" tab for the International System of Units or the \"Other Units\" tab to convert units into either US or metric units.",
+        "Note: that the calculator also computes the Ponderal Index in addition to BMI, both of which are discussed below in detail."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2024-10-20",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_10_20": [
+          "Status check with color",
+          "Advice message",
+          "Working chart"
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/bmi-calculator",
+        "repo": "https://github.com/ryzmdn/bmi-calculator"
+      }
+    },
+    {
+      "id": 5,
+      "date": "2024-10-20",
+      "version": "1.0.0",
+      "title": "JavaScript Dynamic Calendar",
+      "subtitle": "A dynamic calendar is an interactive element on a web page that displays dates for a specific month or time range.",
+      "paragraph": [
+        "A dynamic calendar is an interactive element on a web page that displays dates for a specific month or time range. This calendar is created using HTML, CSS, and javascript with a minimalist User Interface design for easy readability. There are 12 calendars from January to December, corresponding to the number of months in a year."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2024-10-20",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_10_20": [
+          "Automatic date marker",
+          "Automatically generate dates in each month",
+          "Can generate dates in different years"
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/dynamic-calendar",
+        "repo": "https://github.com/ryzmdn/dynamic-calendar"
+      }
+    },
+    {
+      "id": 6,
+      "date": "2024-11-08",
+      "version": "1.0.0",
+      "title": "Node.js Mailer",
+      "subtitle": "Nodemailer to send messages with a form from the sender's email to the recipient's email using nodejs",
+      "paragraph": [
+        "Nodemailer is a module for Node.js applications that allows easy email sending. The project started in 2010 when there were few reliable options for sending email messages, and today, it is the default solution for most Node.js users."
+      ],
+      "category": "Back-end",
+      "license": null,
+      "update_at": "2024-11-08",
+      "tags": ["Node.js", "Express.js", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_11_08": ["Send messages from server to email"]
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/nodejs-mailer"
+      }
+    },
+    {
+      "id": 7,
+      "date": "2024-11-11",
+      "version": "1.0.0",
+      "title": "Node.js URL Shortener",
+      "subtitle": "Create a short URL for a long train using Node.js.",
+      "paragraph": [
+        "A URL shortener makes a URL shorter for you. Long URLs can be hard to remember or share with others. A shortened URL version makes it easier to share your favorite link.",
+        "This project also help in other ways. For instance, links shortened with the same tool look very similar, especially for the domain part. This makes the URL seem more authentic."
+      ],
+      "category": "Back-end",
+      "license": null,
+      "update_at": "2024-11-11",
+      "tags": ["Node.js", "Express.js", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_11_28": []
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/nodejs-url-shortener"
+      }
+    },
+    {
+      "id": 8,
+      "date": "2024-11-12",
+      "version": "1.0.0",
+      "title": "Tribute Page",
+      "subtitle": "A tribute page about a figure I admire.",
+      "paragraph": [
+        "A simple tribute page developed using React and Tailwind CSS. This project aims to pay homage to a specific figure or theme through a responsive, modern, and interactive design. It's suitable for beginners as practice in using the React framework and styling with Tailwind CSS."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2024-11-12",
+      "tags": ["React.js", "TailwindCSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_11_12": [
+          "Using Tailwind CSS to ensure the page looks good on various screen sizes.",
+          "Built with separate React components for easy maintenance.",
+          "Designed with accessibility in mind to be usable by all users.",
+          "Easy to change images, text, and tribute themes."
+        ]
+      },
+      "url": {
+        "demo": "https://tribute-page-self.vercel.app",
+        "repo": "https://github.com/ryzmdn/tribute-page"
+      }
+    },
+    {
+      "id": 9,
+      "date": "2024-11-14",
+      "version": "1.0.0",
+      "title": "Link Bio",
+      "subtitle": "A one-page minimalist web link bio",
+      "paragraph": [
+        "This project is a simple website developed using Vue, Vite, and Tailwind CSS. The goal of this project is to provide social media links and e-commerce products that can be placed in social media bios through a responsive, modern, and interactive design. It's suitable for beginners as practice in using the React framework and styling with Tailwind CSS."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2024-11-14",
+      "tags": ["Vue.js", "TailwindCSS"],
+      "versions": {
+        "1.0.0__2024_11_14": [
+          "Using Tailwind CSS to make sure the page looks good on various screen sizes.",
+          "Built with separate React components for easier maintenance.",
+          "Designed with accessibility in mind to be usable by all users.",
+          "Customizable: Easy to change images, text, and theme."
+        ]
+      },
+      "url": {
+        "demo": "https://link-bio-sooty.vercel.app",
+        "repo": "https://github.com/ryzmdn/link-bio"
+      }
+    },
+    {
+      "id": 10,
+      "date": "2024-11-28",
+      "version": "1.0.0",
+      "title": "Stopwatch",
+      "subtitle": "A simple stopwatch with pause, checkpoint, and reset features using queue programming algorithm.",
+      "paragraph": [
+        "The Stopwatch is a web-based application built with HTML, CSS, and JavaScript. It provides an interactive and visually appealing way to measure elapsed time. The application employs a queue algorithm to manage and process user actions efficiently."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2024-11-28",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_11_28": [
+          "Start and stop the timer with ease using intuitive controls.",
+          "Record multiple lap times during a single session.",
+          "Reset the stopwatch to start a new session.",
+          "Fully responsive UI for seamless use on desktop and mobile devices.",
+          "Implements a queue algorithm to ensure accurate processing of start, stop, and lap actions."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/stopwatch",
+        "repo": "https://github.com/ryzmdn/stopwatch"
+      }
+    },
+    {
+      "id": 11,
+      "date": "2024-12-05",
+      "version": "1.0.0",
+      "title": "Resume",
+      "subtitle": "A responsive web-based Resume built using React, Vite, TypeScript, and Tailwind CSS.",
+      "paragraph": [
+        "A responsive web-based Resume built using React, Vite, TypeScript, and Tailwind CSS. This project provides a sleek and modern Resume layout that works seamlessly across different device sizes, from small mobile screens to large desktops."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2024-12-05",
+      "tags": ["React.js", "TailwindCSS", "TypeScript"],
+      "versions": {
+        "1.0.0__2024_12_05": [
+          "Responsive Design: Optimized for both small and large screens.",
+          "Modern Tech Stack: Built with React, Vite, TypeScript, and Tailwind CSS for fast development and styling.",
+          "Interactive Layout: Smooth transitions and an intuitive interface.",
+          "Customizable: Easily modify the content and styles to match your personal branding.",
+          "Fast Loading: Leverages Vite for efficient development and deployment."
+        ]
+      },
+      "url": {
+        "demo": "https://resume-ten-peach.vercel.app/",
+        "repo": "https://github.com/ryzmdn/resume"
+      }
+    },
+    {
+      "id": 12,
+      "date": "2024-12-07",
+      "version": "1.0.0",
+      "title": "Curriculum Vitae",
+      "subtitle": "A responsive web-based Curriculum Vitae (CV) built using React, Vite, TypeScript, and Tailwind CSS.",
+      "paragraph": [
+        "A responsive web-based Curriculum Vitae (CV) built using React, Vite, TypeScript, and Tailwind CSS. This project provides a sleek and modern CV layout that works seamlessly across different device sizes, from small mobile screens to large desktops."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2024-12-07",
+      "tags": ["React.js", "TailwindCSS", "TypeScript"],
+      "versions": {
+        "1.0.0__2024_12_17": [
+          "Optimized for both small and large screens.",
+          "Built with React, Vite, TypeScript, and Tailwind CSS for fast development and styling.",
+          "Smooth transitions and an intuitive interface.",
+          "Easily modify the content and styles to match your personal branding.",
+          "Leverages Vite for efficient development and deployment."
+        ]
+      },
+      "url": {
+        "demo": "https://curriculum-vitae-opal.vercel.app",
+        "repo": "https://github.com/ryzmdn/curriculum-vitae"
+      }
+    },
+    {
+      "id": 13,
+      "date": "2024-12-12",
+      "version": "1.0.0",
+      "title": "Digital Clock",
+      "subtitle": "The Digital Clock is a web-based application built with HTML, CSS, and JavaScript.",
+      "paragraph": [
+        "The Digital Clock is a web-based application built with HTML, CSS, and JavaScript. It displays real-time dynamic information such as the current time (hours, minutes, and seconds), AM/PM status, date, month, year, and simulated environmental data like fake temperature and humidity."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2024-12-12",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_12_12": [
+          "Shows current hours, minutes, and seconds, updated in real time.",
+          "Displays whether the current time is AM or PM.",
+          "Provides the current date, month, and year.",
+          "Simulates and displays environmental data for a fun and interactive experience.",
+          "Optimized for seamless use across desktop and mobile devices.",
+          "Styled with CSS to deliver a clean and modern look."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/digital-clock/",
+        "repo": "https://github.com/ryzmdn/digital-clock"
+      }
+    },
+    {
+      "id": 14,
+      "date": "2024-12-19",
+      "version": "1.0.0",
+      "title": "Weather Forecast",
+      "subtitle": "A modern Weather Forecast application built with Next.js, Tailwind CSS, and the OpenWeatherMap API.",
+      "paragraph": [
+        "A modern Weather Forecast application built with Next.js, Tailwind CSS, and the OpenWeatherMap API. This project provides accurate and detailed weather forecasts, Search for cities with accurate names like the original. including a calendar view for planning ahead. It features a sleek and responsive design optimized for all device sizes, ensuring a seamless user experience."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2024-12-19",
+      "tags": ["Next.js", "TailwindCSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2024_12_19": [
+          "View accurate weather predictions for the week ahead.",
+          "Intuitive and easy-to-navigate calendar interface for checking forecasts by date.",
+          "Optimized for mobile, tablet, and desktop devices.",
+          "Fetches up-to-date weather information from the OpenWeatherMap API.",
+          "The background color changes every 6 times (Dawn, Morning, Noon, Afternoon, Evening and Night) and rainy weather.",
+          "Built using Next.js for server-side rendering and Tailwind CSS for streamlined styling.",
+          "Easily adapt the design and features to suit your needs."
+        ]
+      },
+      "url": {
+        "demo": "https://weather-forecast-rosy-zeta.vercel.app/",
+        "repo": "https://github.com/ryzmdn/weather-forecast"
+      }
+    },
+    {
+      "id": 15,
+      "date": "2025-01-01",
+      "version": "1.0.0",
+      "title": "Markdown Previewer",
+      "subtitle": "A sleek and modern Markdown Previewer application built using Vite, Vue, and SCSS.",
+      "paragraph": [
+        "A sleek and modern Markdown Previewer application built using Vite, Vue, and SCSS. This project provides a real-time markdown editing and preview experience, perfect for writers, developers, and anyone working with markdown."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2025-01-01",
+      "tags": ["Vue.js", "JavaScript", "HTML", "SCSS"],
+      "versions": {
+        "1.0.0__2025_01_01": [
+          "See changes in your markdown reflected instantly in the preview pane.",
+          "Built with SCSS for easy customization of themes and layouts.",
+          "Full support for GitHub-flavored markdown, including tables, code blocks, and inline formatting.",
+          "Optimized for mobile, tablet, and desktop devices.",
+          "Powered by Vite for blazing-fast development and build processes.",
+          "Add custom markdown plugins or extend functionality to suit your workflow."
+        ]
+      },
+      "url": {
+        "demo": "https://markdown-previewer-psi-tan.vercel.app/",
+        "repo": "https://github.com/ryzmdn/markdown-previewer"
+      }
+    },
+    {
+      "id": 16,
+      "date": "2025-01-05",
+      "version": "1.0.0",
+      "title": "Sign in and Registration Page",
+      "subtitle": "A modern Registration Page app built with React.js, Vite, and Tailwind CSS.",
+      "paragraph": [
+        "A modern Registration Page app built with React.js, Vite, and Tailwind CSS. This project provides a seamless user registration experience with a simple and intuitive design. It includes both Login and Register pages, making it ideal for integrating into larger web applications.."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-01-01",
+      "tags": ["HTML", "CSS", "JavaScript", "React.js"],
+      "versions": {
+        "1.0.0__2025_01_01": [
+          "Enables users to sign up and log in securely.",
+          "Separate Login and Register pages for a clean user experience.",
+          "Fully optimized for desktop, tablet, and mobile devices.",
+          "Built using React.js with fast development using Vite and modern styling with Tailwind CSS.",
+          "Easily adaptable to fit different project requirements and branding."
+        ]
+      },
+      "url": {
+        "demo": "https://registration-page-rho-two.vercel.app",
+        "repo": "https://github.com/ryzmdn/registration-page"
+      }
+    },
+    {
+      "id": 17,
+      "date": "2025-01-05",
+      "version": "1.0.0",
+      "title": "Library Management System",
+      "subtitle": "The Library Management System is a console-based app made using C#.",
+      "paragraph": [
+        "The Library Management System is a console-based application made using C#. It's designed to help manage a library with Linked List algorithms and features like adding books, members, borrowing and returning books, and displaying lists of books, members, and loans."
+      ],
+      "category": "Back-end",
+      "license": null,
+      "update_at": "2025-01-01",
+      "tags": ["C#", ".NET"],
+      "versions": {
+        "1.0.0__2025_01_01": [
+          "Add new book info to the system.",
+          "Add a new member to the system.",
+          "Borrow books from the library.",
+          "Return the books you've borrowed.",
+          "Show the list of all available books in the library.",
+          "Show the list of all library members.",
+          "Show the list of all ongoing book loans.",
+          "Exit the program."
+        ]
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/library-management-system"
+      }
+    },
+    {
+      "id": 18,
+      "date": "2025-02-01",
+      "version": "1.0.0",
+      "title": "RyzDev",
+      "subtitle": "Discover My journey through projects full of ideas, challenges, and inspiration. From simple to complex works, everything is here to see and appreciate.",
+      "paragraph": [
+        "RyzDev (Ryzmdn Development) is the place where all of my creative journeys are documented. This website contains a comprehensive list of projects I have worked on, from the initial idea to the final result.",
+        "Ryzmdn is the username of some of my social media accounts. The main goal of RyzDev is to share my achievements with the world, inspire others, and prove that every small step in the journey can lead to something extraordinary. Here, you will find a wide variety of projects that cover a wide range of fields and show my dedication and passion for continuous improvement."
+      ],
+      "category": "Front-end",
+      "license": "MIT",
+      "update_at": "2025-02-01",
+      "tags": ["React.js", "TypeScript", "TailwindCSS"],
+      "versions": {
+        "1.0.0__2025_02_01": [
+          "Addition of an \"About Me\" page that tells the story of my journey as a creator is now available.",
+          "Optimize code and images to speed up page load times.",
+          "Added a dark theme option for the user's convenience when wanting to change the web theme to light or dark.",
+          "Projects can be grouped by categories, such as \"Front-end\", \"Back-end\", \"Full-stack\" and others, to make it easier to explore.",
+          "A cleaner, more responsive, and easy-to-navigate web display on all devices.",
+          "Optimize code for images, svg and time by applying best practices to speed up page load times.",
+          "Added error handling when the web or content encountered an unknown issue.",
+          "SEO optimization gets better for the web to appear on search engines."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzdev.netlify.app",
+        "repo": "https://github.com/ryzmdn/ryzdev"
+      }
+    }
+  ],
+  "developer": {
+    "name": "Rizky Ramadhan",
+    "username": "Ryzmdn",
+    "social_media": [
+      "https://instagram.com/ryzmdn",
+      "https://facebook.com/ryzmdn",
+      "https://x.com/ryzmdn",
+      "https://dribbble.com/ryzmdn",
+      "https://github.com/ryzmdn",
+      "https://codepen.com/ryzmdn",
+      "https://medium.com/@ryzmdn"
+    ]
+  }
+}
