@@ -476,7 +476,7 @@
         ]
       },
       "url": {
-        "demo": "https://ryzdev.netlify.app",
+        "demo": "https://ryzdev.vercel.app",
         "repo": "https://github.com/ryzmdn/ryzdev"
       }
     }
