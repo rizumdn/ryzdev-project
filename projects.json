@@ -487,7 +487,7 @@
       "title": "PDF Downloader",
       "subtitle": "PDF downloader created using HTML, CSS, JavaScript and PHP.",
       "paragraph": [
-        "This is the same project created to test my ability to use the PHP programming language. The project uses html, css and javascript as the front end and php as the back-end.",
+        "This is the same project created to test my ability to use the PHP programming language. The project uses html, css and javascript as the front end and php as the back-end."
       ],
       "category": "Full-stack",
       "license": null,
@@ -510,7 +510,7 @@
       "title": "MDX Webcontent",
       "subtitle": "all text here is created in the MDX extension with Next.js for rendering.",
       "paragraph": [
-        "MDX WebContent is a boilerplate designed to make it easier to create and manage MDX-based content with Next.js and Tailwind CSS. The project allows you to write content in MDX format, which is then rendered with Next.js for a fast and modern user experience.",
+        "MDX WebContent is a boilerplate designed to make it easier to create and manage MDX-based content with Next.js and Tailwind CSS. The project allows you to write content in MDX format, which is then rendered with Next.js for a fast and modern user experience."
       ],
       "category": "Front-end",
       "license": null,
