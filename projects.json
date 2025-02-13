@@ -479,7 +479,53 @@
         "demo": "https://ryzdev.vercel.app",
         "repo": "https://github.com/ryzmdn/ryzdev"
       }
-    }
+    },
+    {
+      "id": 19,
+      "date": "2025-02-08",
+      "version": "1.0.0",
+      "title": "PDF Downloader",
+      "subtitle": "PDF downloader created using HTML, CSS, JavaScript and PHP.",
+      "paragraph": [
+        "This is the same project created to test my ability to use the PHP programming language. The project uses html, css and javascript as the front end and php as the back-end.",
+      ],
+      "category": "Full-stack",
+      "license": null,
+      "update_at": "2025-02-08",
+      "tags": ["HTML", "CSS", "JavaScript", "PHP"],
+      "versions": {
+        "1.0.0__2025_02_08": [
+          "Can download multiple pdf files"
+        ]
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/pdf-downloader"
+      }
+    },
+    {
+      "id": 20,
+      "date": "2025-02-11",
+      "version": "1.0.0",
+      "title": "MDX Webcontent",
+      "subtitle": "all text here is created in the MDX extension with Next.js for rendering.",
+      "paragraph": [
+        "MDX WebContent is a boilerplate designed to make it easier to create and manage MDX-based content with Next.js and Tailwind CSS. The project allows you to write content in MDX format, which is then rendered with Next.js for a fast and modern user experience.",
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-02-11",
+      "tags": ["Next.js", "JavaScript", "MDX", "TailwindCSS"],
+      "versions": {
+        "1.0.0__2025_02_11": [
+          "Render content using MDX."
+        ]
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/mdx-webcontent"
+      }
+    },
   ],
   "developer": {
     "name": "Rizky Ramadhan",
