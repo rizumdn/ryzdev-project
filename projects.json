@@ -477,7 +477,7 @@
       },
       "url": {
         "demo": "https://ryzdev.vercel.app",
-        "repo": "https://github.com/ryzmdn/ryzdev"
+        "repo": "https://github.com/ryzdevs/ryzdev"
       }
     },
     {
@@ -524,6 +524,62 @@
       "url": {
         "demo": null,
         "repo": "https://github.com/ryzmdn/mdx-webcontent"
+      }
+    },
+    {
+      "id": 21,
+      "date": "2025-02-15",
+      "version": "1.0.0",
+      "title": "RyzBook | Share Your Random Message",
+      "subtitle": "RyzBook is a simple and open guestbook web application where visitors can leave messages without the need to log in or create an account.",
+      "paragraph": [
+        "RyzBook (Ryzmdn Guest Book) is a simple and open guestbook web application where visitors can leave messages without needing to log in or create an account. Everyone can see all messages on this website, they can also send any message once every hour in real-time.",
+        "This project has an appearance theme of \"Neumorphism\" which is a design style used in graphical user interfaces. usually identified by a soft, light look with elements that appear to stand out or recess into the background rather than hovering above it."
+      ],
+      "category": "Full-stack",
+      "license": "MIT",
+      "update_at": "2025-02-15",
+      "tags": ["React.js", "Vite", "JavaScript", "Tailwind CSS", "Firebase"],
+      "versions": {
+        "1.0.0__2025_02_15": [
+          "Users can submit messages without signing in.",
+          "If no username is provided, a default name like anonym-message#<random> is assigned.",
+          "All messages are stored indefinitely and visible to everyone.",
+          "A maximum of 100 messages is stored at a time.",
+          "Messages are automatically deleted if they are 1 year old.",
+          "Users can send only one message per hour from the same device.",
+          "Each message displays the sender's name, the message and the date in format: Month/DD/YYYY."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzbook.vercel.app",
+        "repo": "https://github.com/ryzdevs/ryzbook"
+      }
+    },
+    {
+      "id": 21,
+      "date": "2025-02-16",
+      "version": "1.0.0",
+      "title": "Palindrome Checker",
+      "subtitle": "Palindrome checker is a web-based application built with HTML, CSS and JavaScript.",
+      "paragraph": [
+        "Palindrome Checker is a web-based application built with HTML, CSS and JavaScript. The app allows users to check if a text is a palindrome automatically without the need to press any buttons."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-02-16",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2025_02_16": [
+          "User simply enter text into the input, and the result will be displayed directly below the input.",
+          "No need to click the button to check the palindrome.",
+          "Designed to be used comfortably on a variety of devices, both desktop and mobile.",
+          "Developed with CSS to provide a clean and modern user experience."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/palindrome-checker/",
+        "repo": "https://github.com/ryzmdn/palindrome-checker"
       }
     }
   ],
