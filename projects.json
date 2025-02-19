@@ -581,6 +581,60 @@
         "demo": "https://ryzmdn.github.io/palindrome-checker/",
         "repo": "https://github.com/ryzmdn/palindrome-checker"
       }
+    },
+    {
+      "id": 22,
+      "date": "2025-02-18",
+      "version": "1.0.0",
+      "title": "Text to Speech Converter",
+      "subtitle": "Text to Speech Converter is a web-based application that allows users to convert text to speech using JavaScript's built-in API.",
+      "paragraph": [
+        "Text to Speech Converter is a web-based application that allows users to convert text to speech using JavaScript's built-in API. Users can choose a variety of sounds, adjust the pitch (pitch), and adjust the speed of the sound.",
+        "The MediaRecorder API for recording sound may not work in all browsers."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-02-18",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2025_02_18": [
+          "Enter the text, then listen to the voice directly.",
+          "A variety of voice options are available based on the browser's built-in Speech Synthesis API.",
+          "Adjust the speed and pitch of the voice according to your preference.",
+          "Can be used comfortably on a variety of devices, both desktop and mobile.",
+          "Built with only pure HTML, CSS, and JavaScript."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/text-to-speech-converter/",
+        "repo": "https://github.com/ryzmdn/text-to-speech-converter"
+      }
+    },
+    {
+      "id": 23,
+      "date": "2025-02-19",
+      "version": "1.0.0",
+      "title": "Simple Calculator",
+      "subtitle": "The calculator is a web-based application that allows users to perform basic mathematical calculations.",
+      "paragraph": [
+        "The calculator is a web-based application that allows users to perform basic mathematical calculations such as addition, subtraction, multiplication, and division. This app is built using HTML, CSS, and JavaScript without using external libraries."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-02-19",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2025_02_19": [
+          "Supports addition (+), subtraction (-), multiplication (*), division (/) and modulus (%).",
+          "Comfortable to use on both desktop and mobile devices.",
+          "Simple yet attractive design with intuitive visual effects.",
+          "Uses only basic web technologies."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/simple-calculator/",
+        "repo": "https://github.com/ryzmdn/simple-calculator"
+      }
     }
   ],
   "developer": {
