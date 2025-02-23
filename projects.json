@@ -635,6 +635,33 @@
         "demo": "https://ryzmdn.github.io/simple-calculator/",
         "repo": "https://github.com/ryzmdn/simple-calculator"
       }
+    },
+    {
+      "id": 24,
+      "date": "2025-02-23",
+      "version": "1.0.0",
+      "title": "Quotes Generator",
+      "subtitle": "Quotes Generator is a web-based application that displays quotes randomly.",
+      "paragraph": [
+        "Quotes Generator is a web-based application that displays quotes randomly. This app is built using HTML, CSS, JavaScript, and JSON. Users can display a new quote by clicking the Refresh or Next Quote button. Additionally, if a user clicks on an author's name, the app will open a new search tab based on that author's name."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-02-23",
+      "tags": ["HTML", "CSS", "JavaScript", "JSON"],
+      "versions": {
+        "1.0.0__2025_02_23": [
+          "Displays random quotes from an available list.",
+          "Click the button to get a new quote.",
+          "Click the author's name to search for more information in a new tab.",
+          "Can be used on a variety of devices, both desktop and mobile.",
+          "Built with simple technology without the need for external libraries."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/quotes-generator/",
+        "repo": "https://github.com/ryzmdn/quotes-generator"
+      }
     }
   ],
   "developer": {
