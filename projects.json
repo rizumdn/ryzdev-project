@@ -530,7 +530,7 @@
       "id": 21,
       "date": "2025-02-15",
       "version": "1.0.0",
-      "title": "RyzBook | Share Your Random Message",
+      "title": "RyzBook",
       "subtitle": "RyzBook is a simple and open guestbook web application where visitors can leave messages without the need to log in or create an account.",
       "paragraph": [
         "RyzBook (Ryzmdn Guest Book) is a simple and open guestbook web application where visitors can leave messages without needing to log in or create an account. Everyone can see all messages on this website, they can also send any message once every hour in real-time.",
