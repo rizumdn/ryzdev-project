@@ -15,7 +15,7 @@
       "category": "Full-stack",
       "license": "CC0-1.0",
       "update_at": "2024-08-22",
-      "tags": ["PHP", "Laravel", "TailwindCSS"],
+      "tags": ["PHP", "Laravel", "TailwindCSS", "Website"],
       "versions": {
         "1.0.0__2024_08_22": [
           "Can create, read, update and delete data",
@@ -39,7 +39,14 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2024-10-20",
-      "tags": ["React.js", "TailwindCSS", "HTML", "CSS", "JavaScript"],
+      "tags": [
+        "React.js",
+        "TailwindCSS",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Website"
+      ],
       "versions": {
         "1.0.0__2024_10_20": [
           "Responsive layout",
@@ -67,7 +74,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2024-10-20",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_10_20": [
           "Working link",
@@ -93,7 +100,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2024-10-20",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_10_20": [
           "Status check with color",
@@ -118,7 +125,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2024-10-20",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_10_20": [
           "Automatic date marker",
@@ -143,7 +150,7 @@
       "category": "Back-end",
       "license": null,
       "update_at": "2024-11-08",
-      "tags": ["Node.js", "Express.js", "JavaScript"],
+      "tags": ["Node.js", "Express.js", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_11_08": ["Send messages from server to email"]
       },
@@ -165,7 +172,7 @@
       "category": "Back-end",
       "license": null,
       "update_at": "2024-11-11",
-      "tags": ["Node.js", "Express.js", "JavaScript"],
+      "tags": ["Node.js", "Express.js", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_11_28": []
       },
@@ -186,7 +193,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2024-11-12",
-      "tags": ["React.js", "TailwindCSS", "JavaScript"],
+      "tags": ["React.js", "TailwindCSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_11_12": [
           "Using Tailwind CSS to ensure the page looks good on various screen sizes.",
@@ -212,7 +219,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2024-11-14",
-      "tags": ["Vue.js", "TailwindCSS"],
+      "tags": ["Vue.js", "TailwindCSS", "Website"],
       "versions": {
         "1.0.0__2024_11_14": [
           "Using Tailwind CSS to make sure the page looks good on various screen sizes.",
@@ -238,7 +245,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2024-11-28",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_11_28": [
           "Start and stop the timer with ease using intuitive controls.",
@@ -265,7 +272,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2024-12-05",
-      "tags": ["React.js", "TailwindCSS", "TypeScript"],
+      "tags": ["React.js", "TailwindCSS", "TypeScript", "Website"],
       "versions": {
         "1.0.0__2024_12_05": [
           "Responsive Design: Optimized for both small and large screens.",
@@ -292,7 +299,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2024-12-07",
-      "tags": ["React.js", "TailwindCSS", "TypeScript"],
+      "tags": ["React.js", "TailwindCSS", "TypeScript", "Website"],
       "versions": {
         "1.0.0__2024_12_17": [
           "Optimized for both small and large screens.",
@@ -319,7 +326,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2024-12-12",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_12_12": [
           "Shows current hours, minutes, and seconds, updated in real time.",
@@ -347,7 +354,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2024-12-19",
-      "tags": ["Next.js", "TailwindCSS", "JavaScript"],
+      "tags": ["Next.js", "TailwindCSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2024_12_19": [
           "View accurate weather predictions for the week ahead.",
@@ -376,7 +383,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2025-01-01",
-      "tags": ["Vue.js", "JavaScript", "HTML", "SCSS"],
+      "tags": ["Vue.js", "JavaScript", "HTML", "SCSS", "Website"],
       "versions": {
         "1.0.0__2025_01_01": [
           "See changes in your markdown reflected instantly in the preview pane.",
@@ -404,7 +411,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2025-01-01",
-      "tags": ["HTML", "CSS", "JavaScript", "React.js"],
+      "tags": ["HTML", "CSS", "JavaScript", "React.js", "Website"],
       "versions": {
         "1.0.0__2025_01_01": [
           "Enables users to sign up and log in securely.",
@@ -431,7 +438,7 @@
       "category": "Back-end",
       "license": null,
       "update_at": "2025-01-01",
-      "tags": ["C#", ".NET"],
+      "tags": ["C#", ".NET", "Website"],
       "versions": {
         "1.0.0__2025_01_01": [
           "Add new book info to the system.",
@@ -462,7 +469,7 @@
       "category": "Front-end",
       "license": "MIT",
       "update_at": "2025-02-01",
-      "tags": ["React.js", "TypeScript", "TailwindCSS"],
+      "tags": ["React.js", "TypeScript", "TailwindCSS", "Website"],
       "versions": {
         "1.0.0__2025_02_01": [
           "Addition of an \"About Me\" page that tells the story of my journey as a creator is now available.",
@@ -492,11 +499,9 @@
       "category": "Full-stack",
       "license": null,
       "update_at": "2025-02-08",
-      "tags": ["HTML", "CSS", "JavaScript", "PHP"],
+      "tags": ["HTML", "CSS", "JavaScript", "PHP", "Website"],
       "versions": {
-        "1.0.0__2025_02_08": [
-          "Can download multiple pdf files"
-        ]
+        "1.0.0__2025_02_08": ["Can download multiple pdf files"]
       },
       "url": {
         "demo": null,
@@ -515,11 +520,9 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2025-02-11",
-      "tags": ["Next.js", "JavaScript", "MDX", "TailwindCSS"],
+      "tags": ["Next.js", "JavaScript", "MDX", "TailwindCSS", "Website"],
       "versions": {
-        "1.0.0__2025_02_11": [
-          "Render content using MDX."
-        ]
+        "1.0.0__2025_02_11": ["Render content using MDX."]
       },
       "url": {
         "demo": null,
@@ -539,7 +542,14 @@
       "category": "Full-stack",
       "license": "MIT",
       "update_at": "2025-02-15",
-      "tags": ["React.js", "Vite", "JavaScript", "Tailwind CSS", "Firebase"],
+      "tags": [
+        "React.js",
+        "Vite",
+        "JavaScript",
+        "Tailwind CSS",
+        "Firebase",
+        "Website"
+      ],
       "versions": {
         "1.0.0__2025_02_15": [
           "Users can submit messages without signing in.",
@@ -568,7 +578,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2025-02-16",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2025_02_16": [
           "User simply enter text into the input, and the result will be displayed directly below the input.",
@@ -595,7 +605,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2025-02-18",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2025_02_18": [
           "Enter the text, then listen to the voice directly.",
@@ -622,7 +632,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2025-02-19",
-      "tags": ["HTML", "CSS", "JavaScript"],
+      "tags": ["HTML", "CSS", "JavaScript", "Website"],
       "versions": {
         "1.0.0__2025_02_19": [
           "Supports addition (+), subtraction (-), multiplication (*), division (/) and modulus (%).",
@@ -648,7 +658,7 @@
       "category": "Front-end",
       "license": null,
       "update_at": "2025-02-23",
-      "tags": ["HTML", "CSS", "JavaScript", "JSON"],
+      "tags": ["HTML", "CSS", "JavaScript", "JSON", "Website"],
       "versions": {
         "1.0.0__2025_02_23": [
           "Displays random quotes from an available list.",
@@ -662,19 +672,102 @@
         "demo": "https://ryzmdn.github.io/quotes-generator/",
         "repo": "https://github.com/ryzmdn/quotes-generator"
       }
+    },
+    {
+      "id": 25,
+      "date": "2025-02-24",
+      "version": "1.0.0",
+      "title": "Android Basic",
+      "subtitle": "Basic Android projects from Android Studio.",
+      "paragraph": [
+        "This is a repository of basic Android projects from Android Studio titled Creating a Business Card App Using Compose."
+      ],
+      "category": "Application",
+      "license": null,
+      "update_at": "2025-02-24",
+      "tags": ["Kotlin", "Android", "Application"],
+      "versions": {
+        "1.0.0__2025-02-24": []
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/android-basic"
+      }
+    },
+    {
+      "id": 26,
+      "date": "2025-02-26",
+      "version": "1.0.0",
+      "title": "Todo List",
+      "subtitle": "Web-based application that allows users to add, edit, and delete tasks easily.",
+      "paragraph": [
+        "To-Do List is a web-based application that allows users to add, edit, and delete tasks easily. This app is built using HTML, CSS, and JavaScript and supports local storage to save the user's task list."
+      ],
+      "category": "Front-end",
+      "license": null,
+      "update_at": "2025-02-26",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "versions": {
+        "1.0.0__2025-02-26": [
+          "Press the Enter key to add a new task without needing a button.",
+          "Each task has two buttons—one for editing and one for deleting.",
+          "Double-click on a task title to edit it instantly.",
+          "Task lists are automatically saved in the browser, so they remain even after closing the tab."
+        ]
+      },
+      "url": {
+        "demo": "https://ryzmdn.github.io/todo-list/",
+        "repo": "https://github.com/ryzmdn/todo-list"
+      }
+    },
+    {
+      "id": 27,
+      "date": "2025-02-26",
+      "version": "1.0.0",
+      "title": "Android FAQs",
+      "subtitle": "Basic Android projects from Android Studio.",
+      "paragraph": [
+        "Android FAQs is an Android application built using Kotlin and Jetpack Compose. This project is based on an intermediate-level Android Studio tutorial focused on creating layouts with Jetpack Compose.",
+        "It provides a simple FAQ (Frequently Asked Questions) interface where users can view commonly asked questions and their answers."
+      ],
+      "category": "Application",
+      "license": null,
+      "update_at": "2025-02-26",
+      "tags": ["Kotlin", "Android", "Application"],
+      "versions": {
+        "1.0.0__2025-02-26": [
+          "Uses modern UI development with Jetpack Compose for a clean and responsive interface.",
+          "Users can tap on a question to reveal its answer.",
+          "FAQ sections expand and collapse with smooth transitions.",
+          "Uses Compose's state management for a seamless user experience."
+        ]
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/android-faqs"
+      }
+    },
+    {
+      "id": 28,
+      "date": "2025-02-28",
+      "version": "1.0.0",
+      "title": "Android Scroll Layout",
+      "subtitle": "Android app built using Kotlin and Jetpack Compose.",
+      "paragraph": [
+        "Android Scroll Layout is an Android application built using Kotlin and Jetpack Compose. This project is inspired by an intermediate-level Android Studio tutorial from Android Developer Codelabs.",
+        "It demonstrates how to create scrollable layouts using Jetpack Compose, providing a smooth and responsive user experience."
+      ],
+      "category": "Application",
+      "license": null,
+      "update_at": "2025-02-28",
+      "tags": ["Kotlin", "Android", "Application"],
+      "versions": {
+        "1.0.0__2025-02-28": []
+      },
+      "url": {
+        "demo": null,
+        "repo": "https://github.com/ryzmdn/android-scroll-layout"
+      }
     }
-  ],
-  "developer": {
-    "name": "Rizky Ramadhan",
-    "username": "Ryzmdn",
-    "social_media": [
-      "https://instagram.com/ryzmdn",
-      "https://facebook.com/ryzmdn",
-      "https://x.com/ryzmdn",
-      "https://dribbble.com/ryzmdn",
-      "https://github.com/ryzmdn",
-      "https://codepen.com/ryzmdn",
-      "https://medium.com/@ryzmdn"
-    ]
-  }
+  ]
 }
