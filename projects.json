@@ -468,7 +468,7 @@
         ],
         "category": "Front-end",
         "license": "MIT",
-        "update_at": "2025-03-04",
+        "update_at": "2025-03-11",
         "tags": ["React.js", "TypeScript", "TailwindCSS", "Website"],
         "versions": {
           "1.0.0__2025_02_01": [
@@ -480,13 +480,6 @@
             "Optimize code for images, svg and time by applying best practices to speed up page load times.",
             "Added error handling when the web or content encountered an unknown issue.",
             "SEO optimization gets better for the web to appear on search engines."
-          ],
-          "1.5.0__2025_03_04": [
-            "Optimized image loading faster than before",
-            "Adjust text, icons and typography to make it more optimal",
-            "Remove unnecessary scripts to optimize website performance",
-            "Optimizing svg to make paths more complex",
-            "Added new features: Version selection to see the latest features"
           ]
         },
         "url": {
@@ -548,7 +541,7 @@
         ],
         "category": "Full-stack",
         "license": "MIT",
-        "update_at": "2025-02-15",
+        "update_at": "2025-03-15",
         "tags": [
           "React.js",
           "Vite",
