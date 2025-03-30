@@ -773,6 +773,29 @@
           "demo": null,
           "repo": "https://github.com/ryzmdn/android-scroll-layout"
         }
+      },
+      {
+        "id": 30,
+        "created_at": "2025-02-24",
+        "version": "1.0.0",
+        "title": "RyzNote",
+        "subtitle": "My personal blog made with nextjs, tailwind and wordpress.",
+        "paragraph": [
+          "RyzNote is a personal blog built with Next.js, Tailwind CSS, and the WordPress API. It serves as a platform for sharing thoughts, tutorials, and experiences related to web development, technology, and personal growth."
+        ],
+        "category": "Front-end",
+        "license": "MIT",
+        "update_at": "2025-03-14",
+        "tags": ["Next.js", "HTML", "TypeScript", "CSS", "TailwindCSS"],
+        "versions": {
+          "0.9.0__2025-03-14": [
+            "BETA Release."
+          ]
+        },
+        "url": {
+          "demo": "https://ryznote.vercel.app",
+          "repo": "https://github.com/ryzmdn/ryznote"
+        }
       }
     ]
   }
