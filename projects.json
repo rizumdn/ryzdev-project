@@ -527,16 +527,12 @@
       "tags": ["React.js", "TypeScript", "TailwindCSS", "Website"],
       "features": [
         {
-          "version": "1.0.0",
+          "version": "1.5.2",
           "list": [
-            "Addition of an \"About Me\" page that tells the story of my journey as a creator is now available.",
-            "Optimize code and images to speed up page load times.",
-            "Added a dark theme option for the user's convenience when wanting to change the web theme to light or dark.",
-            "Projects can be grouped by categories, such as \"Front-end\", \"Back-end\", \"Full-stack\" and others, to make it easier to explore.",
-            "A cleaner, more responsive, and easy-to-navigate web display on all devices.",
-            "Optimize code for images, svg and time by applying best practices to speed up page load times.",
-            "Added error handling when the web or content encountered an unknown issue.",
-            "SEO optimization gets better for the web to appear on search engines."
+            "Add new option: Android",
+            "Customize project link styles",
+            "Adjust transitions",
+            "Fix date color blending with background color"
           ]
         },
         {
@@ -550,12 +546,16 @@
           ]
         },
         {
-          "version": "1.5.2",
+          "version": "1.0.0",
           "list": [
-            "Add new option: Android",
-            "Customize project link styles",
-            "Adjust transitions",
-            "Fix date color blending with background color"
+            "Addition of an \"About Me\" page that tells the story of my journey as a creator is now available.",
+            "Optimize code and images to speed up page load times.",
+            "Added a dark theme option for the user's convenience when wanting to change the web theme to light or dark.",
+            "Projects can be grouped by categories, such as \"Front-end\", \"Back-end\", \"Full-stack\" and others, to make it easier to explore.",
+            "A cleaner, more responsive, and easy-to-navigate web display on all devices.",
+            "Optimize code for images, svg and time by applying best practices to speed up page load times.",
+            "Added error handling when the web or content encountered an unknown issue.",
+            "SEO optimization gets better for the web to appear on search engines."
           ]
         }
       ],
@@ -628,18 +628,6 @@
       ],
       "features": [
         {
-          "version": "1.0.0",
-          "list": [
-            "Users can submit messages without signing in.",
-            "If no username is provided, a default name like anonym-message#<random> is assigned.",
-            "All messages are stored indefinitely and visible to everyone.",
-            "A maximum of 100 messages is stored at a time.",
-            "Messages are automatically deleted if they are 1 year old.",
-            "Users can send only one message per hour from the same device.",
-            "Each message displays the sender's name, the message and the date in format: Month/DD/YYYY."
-          ]
-        },
-        {
           "version": "2.0.0",
           "list": [
             "Updated the overall theme",
@@ -649,6 +637,18 @@
             "Customize button components",
             "Customize the footer, header and sidebar section",
             "Update image in message to initials"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "list": [
+            "Users can submit messages without signing in.",
+            "If no username is provided, a default name like anonym-message#<random> is assigned.",
+            "All messages are stored indefinitely and visible to everyone.",
+            "A maximum of 100 messages is stored at a time.",
+            "Messages are automatically deleted if they are 1 year old.",
+            "Users can send only one message per hour from the same device.",
+            "Each message displays the sender's name, the message and the date in format: Month/DD/YYYY."
           ]
         }
       ],
@@ -908,15 +908,6 @@
       "tags": ["Next.js", "HTML", "TypeScript", "CSS", "TailwindCSS"],
       "features": [
         {
-          "version": "0.9.0",
-          "list": [
-            "Filter blog by category",
-            "Add topic pages",
-            "Suggestion menu adjustments",
-            "Update dark and light themes"
-          ]
-        },
-        {
           "version": "0.9.1",
           "list": [
             "Search adjustments",
@@ -926,6 +917,15 @@
             "Fix blogs that cannot be loaded in certain categories",
             "Fix search dialog not closing",
             "Fix error when searching blog"
+          ]
+        },
+        {
+          "version": "0.9.0",
+          "list": [
+            "Filter blog by category",
+            "Add topic pages",
+            "Suggestion menu adjustments",
+            "Update dark and light themes"
           ]
         }
       ],
