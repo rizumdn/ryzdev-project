@@ -514,7 +514,7 @@
       "id": 18,
       "name": "RyzDev",
       "created_at": "2025-02-24T13:59:53Z",
-      "updated_at": "2025-03-11T21:25:36Z",
+      "updated_at": "2025-04-17T02:43:44Z",
       "image": null,
       "description": {
         "summary": "Discover My journey through projects full of ideas, challenges, and inspiration. From simple to complex works, everything is here to see and appreciate.",
@@ -526,6 +526,18 @@
       "category": "Front-end",
       "tags": ["React.js", "TypeScript", "TailwindCSS", "Website"],
       "features": [
+        {
+          "version": "1.8.4",
+          "list": [
+            "Added new section: contributors",
+            "Added a special section for project features",
+            "Added select to view project versions and features",
+            "Content visibility adjustments",
+            "Changelog page is now unavailable",
+            "Fix missing release date on desktop devices",
+            "Customization of user interface style"
+          ]
+        },
         {
           "version": "1.5.2",
           "list": [
@@ -608,7 +620,7 @@
       "id": 21,
       "name": "RyzBook",
       "created_at": "2025-02-24T14:00:45Z",
-      "updated_at": "2025-02-24T14:00:45Z",
+      "updated_at": "2025-04-17T13:22:34Z",
       "image": null,
       "description": {
         "summary": "RyzBook is a simple and open guestbook web application where visitors can leave messages without the need to log in or create an account.",
@@ -627,6 +639,18 @@
         "Website"
       ],
       "features": [
+        {
+          "version": "2.5.5",
+          "list": [
+            "Action section layout adjustment",
+            "User interface color customization",
+            "Sidebar style update",
+            "Add click to overlay when sidebar is active",
+            "Component bug fixes",
+            "Transition adjustments",
+            "Content visibility adjustments"
+          ]
+        },
         {
           "version": "2.0.0",
           "list": [
@@ -895,8 +919,8 @@
     {
       "id": 30,
       "name": "RyzNote",
-      "created_at": "2025-02-28T15:43:31Z",
-      "updated_at": "2025-02-28T15:58:53Z",
+      "created_at": "2025-03-28T23:36:00Z",
+      "updated_at": "2025-04-17T14:56:58Z",
       "image": null,
       "description": {
         "summary": "My personal blog made with Next.js, Tailwind CSS and Wordpress.",
@@ -907,6 +931,18 @@
       "category": "Front-end",
       "tags": ["Next.js", "HTML", "TypeScript", "CSS", "TailwindCSS"],
       "features": [
+        {
+          "version": "1.0.0",
+          "list": [
+            "Official Release",
+            "Add new page: RSS",
+            "Blog reading page display adjustments",
+            "Fixed client error issue when searching for posts",
+            "Fixed issues when opening certain topics",
+            "Transition adjustments",
+            "Content visibility adjustments"
+          ]
+        },
         {
           "version": "0.9.1",
           "list": [
