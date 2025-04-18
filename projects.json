@@ -625,8 +625,7 @@
       "description": {
         "summary": "RyzBook is a simple and open guestbook web application where visitors can leave messages without the need to log in or create an account.",
         "detail": [
-          "RyzBook (Ryzmdn Guest Book) is a simple and open guestbook web application where visitors can leave messages without needing to log in or create an account. Everyone can see all messages on this website, they can also send any message once every hour in real-time.",
-          "This project has an appearance theme of \"Neumorphism\" which is a design style used in graphical user interfaces. usually identified by a soft, light look with elements that appear to stand out or recess into the background rather than hovering above it."
+          "RyzBook (Ryzmdn Guest Book) is a simple and open guestbook web application where visitors can leave messages without needing to log in or create an account. Everyone can see all messages on this website, they can also send any message once every hour in real-time."
         ]
       },
       "category": "Full-stack",
