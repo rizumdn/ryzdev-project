@@ -4,35 +4,6 @@
   "data": [
     {
       "id": 1,
-      "name": "Laravel CRUD",
-      "created_at": "2024-08-21T13:37:06Z",
-      "updated_at": "2024-09-24T09:32:55Z",
-      "image": null,
-      "description": {
-        "summary": "The foundation of a CRUD website built using the Laravel framework.",
-        "detail": [
-          "The project is a CRUD (Create, Read, Update, Delete) based web application built using PHP Laravel, a powerful and efficient PHP framework. The app is designed to make it easier for users to manage their data through a simple and intuitive web interface.",
-          "I created this project to test my ability to use the PHP programming language and the Laravel framework"
-        ]
-      },
-      "category": "Full-stack",
-      "tags": ["PHP", "Laravel", "TailwindCSS", "Website"],
-      "features": [
-        {
-          "version": "1.0.0",
-          "list": [
-            "Can create, read, update and delete data",
-            "If user don't use an image, it automatically uses the default image"
-          ]
-        }
-      ],
-      "homepage": null,
-      "git": "https://github.com/ryzmdn/laravel-crud",
-      "license": "CC0-1.0",
-      "contributors": null
-    },
-    {
-      "id": 2,
       "name": "Payment Form",
       "created_at": "2024-10-08T07:22:46Z",
       "updated_at": "2025-02-15T01:58:22Z",
@@ -71,7 +42,7 @@
       "contributors": null
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "QR Code Generator",
       "created_at": "2024-09-28T04:26:53Z",
       "updated_at": "2024-10-20T02:13:15Z",
@@ -100,7 +71,7 @@
       "contributors": null
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "BMI Calculator",
       "created_at": "2024-09-28T14:37:33Z",
       "updated_at": "2024-10-20T02:14:06Z",
@@ -126,7 +97,7 @@
       "contributors": null
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "JavaScript Dynamic Calendar",
       "created_at": "2024-09-29T02:44:13Z",
       "updated_at": "2024-10-20T02:13:45Z",
@@ -155,7 +126,7 @@
       "contributors": null
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Node.js Mailer",
       "created_at": "2024-11-08T12:51:01Z",
       "updated_at": "2024-11-08T12:56:46Z",
@@ -175,7 +146,7 @@
       "contributors": null
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Node.js URL Shortener",
       "created_at": "2024-11-10T23:40:44Z",
       "updated_at": "2024-11-10T23:44:53Z",
@@ -196,7 +167,7 @@
       "contributors": null
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Tribute Page",
       "created_at": "2024-11-12T03:21:52Z",
       "updated_at": "2025-02-15T01:54:34Z",
@@ -226,7 +197,7 @@
       "contributors": null
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Link Bio",
       "created_at": "2024-11-14T07:51:26Z",
       "updated_at": "2025-02-14T18:00:41Z",
@@ -256,7 +227,7 @@
       "contributors": null
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Stopwatch",
       "created_at": "2024-11-28T16:05:25Z",
       "updated_at": "2024-11-28T16:08:55Z",
@@ -287,7 +258,7 @@
       "contributors": null
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Resume",
       "created_at": "2024-12-05T06:22:27Z",
       "updated_at": "2025-02-15T02:10:18Z",
@@ -318,7 +289,7 @@
       "contributors": null
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Curriculum Vitae",
       "created_at": "2024-12-07T01:27:52Z",
       "updated_at": "2025-02-14T17:54:43Z",
@@ -349,7 +320,7 @@
       "contributors": null
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "Digital Clock",
       "created_at": "2024-12-12T15:05:08Z",
       "updated_at": "2024-12-12T15:09:48Z",
@@ -381,7 +352,7 @@
       "contributors": null
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "Weather Forecast",
       "created_at": "2024-12-18T12:27:28Z",
       "updated_at": "2025-02-15T02:15:14Z",
@@ -414,7 +385,7 @@
       "contributors": null
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "Markdown Previewer",
       "created_at": "2025-01-01T15:37:54Z",
       "updated_at": "2025-02-15T01:50:23Z",
@@ -446,7 +417,7 @@
       "contributors": null
     },
     {
-      "id": 16,
+      "id": 15,
       "name": "Sign in and Registration Page",
       "created_at": "2025-01-06T18:16:28Z",
       "updated_at": "2025-02-15T02:22:42Z",
@@ -477,41 +448,7 @@
       "contributors": null
     },
     {
-      "id": 17,
-      "name": "Library Management System",
-      "created_at": "2025-01-06T18:16:28Z",
-      "updated_at": "2025-02-15T02:22:42Z",
-      "image": null,
-      "description": {
-        "summary": "The Library Management System is a console-based app made using C#.",
-        "detail": [
-          "The Library Management System is a console-based application made using C#. It's designed to help manage a library with Linked List algorithms and features like adding books, members, borrowing and returning books, and displaying lists of books, members, and loans."
-        ]
-      },
-      "category": "Back-end",
-      "tags": ["C#", ".NET", "Website"],
-      "features": [
-        {
-          "version": "1.0.0",
-          "list": [
-            "Add new book info to the system.",
-            "Add a new member to the system.",
-            "Borrow books from the library.",
-            "Return the books you've borrowed.",
-            "Show the list of all available books in the library.",
-            "Show the list of all library members.",
-            "Show the list of all ongoing book loans.",
-            "Exit the program."
-          ]
-        }
-      ],
-      "homepage": null,
-      "git": "https://github.com/ryzmdn/library-management-system",
-      "license": null,
-      "contributors": null
-    },
-    {
-      "id": 18,
+      "id": 16,
       "name": "RyzDev",
       "created_at": "2025-02-24T13:59:53Z",
       "updated_at": "2025-04-17T02:43:44Z",
@@ -577,7 +514,7 @@
       "contributors": null
     },
     {
-      "id": 19,
+      "id": 17,
       "name": "PDF Downloader",
       "created_at": "2025-02-08T16:11:14Z",
       "updated_at": "2025-02-08T16:19:35Z",
@@ -597,7 +534,7 @@
       "contributors": null
     },
     {
-      "id": 20,
+      "id": 18,
       "name": "MDX Webcontent",
       "created_at": "2025-02-11T14:23:18Z",
       "updated_at": "2025-02-11T14:24:37Z",
@@ -617,7 +554,7 @@
       "contributors": null
     },
     {
-      "id": 21,
+      "id": 19,
       "name": "RyzBook",
       "created_at": "2025-02-24T14:00:45Z",
       "updated_at": "2025-04-17T13:22:34Z",
@@ -681,7 +618,7 @@
       "contributors": null
     },
     {
-      "id": 22,
+      "id": 20,
       "name": "Palindrome Checker",
       "created_at": "2025-02-16T08:20:20Z",
       "updated_at": "2025-02-16T08:23:39Z",
@@ -711,7 +648,7 @@
       "contributors": null
     },
     {
-      "id": 23,
+      "id": 21,
       "name": "Text to Speech Converter",
       "created_at": "2025-02-18T14:11:50Z",
       "updated_at": "2025-02-18T14:15:05Z",
@@ -743,7 +680,7 @@
       "contributors": null
     },
     {
-      "id": 24,
+      "id": 22,
       "name": "Simple Calculator",
       "created_at": "2025-02-19T13:13:31Z",
       "updated_at": "2025-02-19T13:17:16Z",
@@ -773,7 +710,7 @@
       "contributors": null
     },
     {
-      "id": 25,
+      "id": 23,
       "name": "Quotes Generator",
       "created_at": "2025-02-23T15:33:09Z",
       "updated_at": "2025-02-23T15:36:36Z",
@@ -804,7 +741,7 @@
       "contributors": null
     },
     {
-      "id": 26,
+      "id": 24,
       "name": "Android Basic",
       "created_at": "2025-02-24T04:02:04Z",
       "updated_at": "2025-02-24T04:11:46Z",
@@ -824,7 +761,7 @@
       "contributors": null
     },
     {
-      "id": 27,
+      "id": 25,
       "name": "Todo List",
       "created_at": "2025-02-26T03:18:13Z",
       "updated_at": "2025-02-26T03:20:23Z",
@@ -854,7 +791,7 @@
       "contributors": null
     },
     {
-      "id": 28,
+      "id": 26,
       "name": "Android FAQs",
       "created_at": "2025-02-26T14:58:06Z",
       "updated_at": "2025-02-26T15:12:04Z",
@@ -885,7 +822,7 @@
       "contributors": null
     },
     {
-      "id": 29,
+      "id": 27,
       "name": "Android Scroll Layout",
       "created_at": "2025-02-28T15:43:31Z",
       "updated_at": "2025-02-28T15:58:53Z",
@@ -916,7 +853,7 @@
       "contributors": null
     },
     {
-      "id": 30,
+      "id": 28,
       "name": "RyzNote",
       "created_at": "2025-03-28T23:36:00Z",
       "updated_at": "2025-04-17T14:56:58Z",
@@ -967,6 +904,40 @@
       "homepage": "https://ryznote/vercel.app",
       "git": "https://github.com/ryzmdn/ryznote",
       "license": "MIT",
+      "contributors": null
+    },
+    {
+      "id": 29,
+      "name": "Admin Dashboard MERN",
+      "created_at": "2025-04-20T16:23:48Z",
+      "updated_at": "2025-04-20T23:42:45Z",
+      "image": null,
+      "description": {
+        "summary": "Authentication boilerplate using the MERN stack.",
+        "detail": [
+          "MERN Auth Boilerplate is a starter project for building authentication and authorization systems using the MERN Stack (MongoDB, Express, React, Node.js). This boilerplate is designed to help developers quickly kickstart their applications with robust user security and best practices in place."
+        ]
+      },
+      "category": "Full-stack",
+      "tags": ["React.js", "MongoDB", "Express.js", "Node.js", "TailwindCSS"],
+      "features": [
+        {
+          "version": "1.0.0",
+          "list": [
+            "User Registration & Login",
+            "JWT Authentication with access & refresh tokens",
+            "Role-Based Authorization (Admin/User)",
+            "Email Verification (optional and extendable)",
+            "Refresh Token flow",
+            "Protected Routes (Public/Private)",
+            "Modular Project Structure for backend and frontend",
+            "Ready for testing and further development"
+          ]
+        }
+      ],
+      "homepage": null,
+      "git": "https://github.com/ryzmdn/admin-dashboard-mern",
+      "license": null,
       "contributors": null
     }
   ]
